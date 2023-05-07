@@ -1,2 +1,2 @@
-# New-game
-The game of the cat
+# The game of the dog and the cat
+
